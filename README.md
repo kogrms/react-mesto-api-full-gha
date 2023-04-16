@@ -10,6 +10,6 @@
 
 IP-адрес x.x.x.x
 
-Frontend https://...
+Frontend https://kogrms.nomoredomains.monster
 
-Backend https://...
+Backend https://api.kogrms.nomoredomains.monster
