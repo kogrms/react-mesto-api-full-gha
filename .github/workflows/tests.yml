@@ -79,4 +79,3 @@ jobs:
           pnpm i --fix-lockfile --prefix web-autotest-public/
     - name: Run test endpoints
       run: make proj15-test-endpoints
-      
